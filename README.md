@@ -1,7 +1,7 @@
 <h1 align="center"> clash-of-clans </h1>
 
-<h2 color="blue">overview</h2>
-a 2 D game in Python3 (terminal-based), heavily inspired by Clash of clans where the user will control the King/Archer queen, move it up, down, forward and backward, while destroying buildings and fighting defences on its way.  
+## #overview
+a 2 D game in Python3 (terminal-based), heavily inspired by Clash of clans where the user will control the King/Archer queen, move it up, down, forward and backward, while destroying buildings and fighting defences on its way.<br>
 The objective of the game is to destroy as many buildings as possible, and collect the maximum amount of loot while doing so. There will be an army of troops to help the king clean up.<br>
 Concepts of object oriented programming are present within the code and The game simulate a basic version of Clash of clans.
 
