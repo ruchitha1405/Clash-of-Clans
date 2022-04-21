@@ -48,16 +48,23 @@ Both the spells can be used atmost once in a game.
 
 <!-- - max health=45 -->
 
- - 'h1'-hut1
-
- - 'h2'-hut2
-
- - 'h3'-hut3
-
- - 'h4'-hut4
-
- - 'h5'-hut5
-
+- h1,h2,h3,h4,h5 are huts
+- s1,s2,s3 are spawning points (sp)
+- b1,b2 are buildings
+- Town hall is represented with 't'
+- walls are represented with 'w'
+- c1,c2 are cannons with range = 4 
+- z1,z2 are wizard towers with range = 4 
+- king/queen's initial co-ordiantes are ( 0,0 ) 
+- everything moves with default speed=1 unless it is specified
+- max num of barbarians is 5 and are represented with 'B'
+- max num of archers is 3 and are represented with 'A'
+- Range of archer=5 which is greater than cannon
+- max num of balloons is 2 and are represented with 'O'
+- There are atmost 3 levels in the game
+>>Level 1: 2 cannons and 2 wizard towers
+>>Level 2: 3 cannons and 3 wizard towers
+>>Level 3: 4 cannons and 4 wizard towers
 
 #### Spawning points:
 
