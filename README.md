@@ -1,7 +1,9 @@
-# clash-of-clans
+<h1 align:"center"> clash-of-clans </h1>
 ## overview
 a 2 D game in Python3 (terminal-based), heavily inspired by Clash of clans where the user will control the King/Archer queen, move it up, down, forward and backward, while destroying buildings and fighting defences on its way.
+
 The objective of the game is to destroy as many buildings as possible, and collect the maximum amount of loot while doing so. There will be an army of troops to help the king clean up.
+
 Concepts of object oriented programming are present within the code and The game simulate a basic version of Clash of clans.
 ## Compile and Run
 If you don't have python or colorama installed, run the following lines on your terminal:
@@ -16,6 +18,7 @@ python3 game.py
 ## controls
 leader of the clan can be either king or archer queen.
 The user can control only the lead .
+
 The following keys are used to control the lead:
 - 'w' - move it up
 - 's' - move it down
@@ -27,6 +30,7 @@ The following keys are used to control the lead:
 - 'e' - to make queen use her eagle's arrow
 ### using spells
 The spells can effect only the lead and the barbarians.
+
 Both the spells can be used atmost once in a game.
 - press 'r' key to activate ragespell 
 - press 'h' key to activate heal spell
