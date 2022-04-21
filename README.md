@@ -16,9 +16,8 @@ And then to run the game:
 $ python3 game.py
 ```
 ## controls
-leader of the clan can be either king or archer queen.
-The user can control only the lead .
-
+leader of the clan can be either king or archer queen.<br>
+The user can control only the lead .<br>
 The following keys are used to control the lead:
 - 'w' - move it up
 - 's' - move it down
@@ -29,8 +28,7 @@ The following keys are used to control the lead:
 - 'x' - to make king use his leviathan axe
 - 'e' - to make queen use her eagle's arrow
 ### using spells
-The spells can effect only the lead and the barbarians.
-
+The spells can effect only the lead and the barbarians.<br>
 Both the spells can be used atmost once in a game.
 - press 'r' key to activate ragespell 
 - press 'h' key to activate heal spell
