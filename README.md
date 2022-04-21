@@ -1,6 +1,6 @@
 <h1 align="center"> clash-of-clans </h1>
 
-<h2><b>overview</b></h2>
+<h2><b>Overview</b></h2>
 a 2 D game in Python3 (terminal-based), heavily inspired by Clash of clans where the user will control the King/Archer queen, move it up, down, forward and backward, while destroying buildings and fighting defences on its way.<br>
 The objective of the game is to destroy as many buildings as possible, and collect the maximum amount of loot while doing so. There will be an army of troops to help the king clean up.<br>
 Concepts of object oriented programming are present within the code and The game simulate a basic version of Clash of clans.
@@ -15,7 +15,7 @@ And then to run the game:
 ```
 $ python3 game.py
 ```
-## controls
+## Controls
 leader of the clan can be either king or archer queen.<br>
 The user can control only the lead .<br>
 The following keys are used to control the lead:
@@ -24,7 +24,7 @@ The following keys are used to control the lead:
 - 'd' - move it forward
 - 'a' - move it backward
 - ' ' - to make it attack
-### Additional attacks
+### additional attacks
 - 'x' - to make king use his leviathan axe
 - 'e' - to make queen use her eagle's arrow
 ### using spells
