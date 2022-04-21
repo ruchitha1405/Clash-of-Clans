@@ -1,4 +1,4 @@
-<h1 align:"center"> clash-of-clans </h1>
+<h1 align="center"> clash-of-clans </h1>
 
 ## overview
 a 2 D game in Python3 (terminal-based), heavily inspired by Clash of clans where the user will control the King/Archer queen, move it up, down, forward and backward, while destroying buildings and fighting defences on its way.
