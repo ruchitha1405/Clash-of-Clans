@@ -1,6 +1,6 @@
 <h1 align="center"> clash-of-clans </h1>
 
-<h2><b>overview<b></h2>
+<h2><b>overview</b></h2>
 a 2 D game in Python3 (terminal-based), heavily inspired by Clash of clans where the user will control the King/Archer queen, move it up, down, forward and backward, while destroying buildings and fighting defences on its way.<br>
 The objective of the game is to destroy as many buildings as possible, and collect the maximum amount of loot while doing so. There will be an army of troops to help the king clean up.<br>
 Concepts of object oriented programming are present within the code and The game simulate a basic version of Clash of clans.
@@ -25,20 +25,20 @@ The following keys are used to control the lead:
 - 'd' - move it forward
 - 'a' - move it backward
 - ' ' - to make it attack
-#### Additional attacks
+### Additional attacks
 - 'x' - to make king use his leviathan axe
 - 'e' - to make queen use her eagle's arrow
-#### using spells
+### using spells
 The spells can effect only the lead and the barbarians.
 
 Both the spells can be used atmost once in a game.
 - press 'r' key to activate ragespell 
 - press 'h' key to activate heal spell
-#### spawning troops
+### spawning troops
 - press key '1' or '2' or '3' to spawn a barbarain at sp1 or sp2 or sp3 respectively.
 - press key '4' or '5' or '6' to spawn a balloon at sp1 or sp2 or sp3 respectively.
 - press key '7' or '8' or '9' to spawn an archer at sp1 or sp2 or sp3 respectively.
-#### quitting the game
+### quitting the game
 - press 'q' to exit the game
 
 
