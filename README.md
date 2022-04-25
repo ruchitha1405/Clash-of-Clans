@@ -25,8 +25,9 @@ The following keys are used to control the lead:
 - 'a' - move it backward
 - ' ' - to make it attack
 ### choosing the lead
+when prompted,
 - Enter 'k' to choose King
-- Enter 'a' to choose Archer queen when prompted
+- Enter 'a' to choose Archer queen
 ### additional attacks
 - 'x' - to make king use his leviathan axe
 - 'e' - to make queen use her eagle's arrow
