@@ -56,9 +56,6 @@ Both the spells can be used atmost once in a game.
 - Range of archer=5 which is greater than cannon
 - max num of balloons is 2 and are represented with 'O'
 - There are atmost 3 levels in the game
->>Level 1: 2 cannons and 2 wizard towers<br>
->>Level 2: 3 cannons and 3 wizard towers<br>
->>Level 3: 4 cannons and 4 wizard towers<br>
 
 
 
