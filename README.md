@@ -44,7 +44,7 @@ Both the spells can be used atmost once in a game.
 - press 'q' to exit the game
 
 
-## Details
+## Miscellaneous
 
 - h1,h2,h3,h4,h5 are huts
 - s1,s2,s3 are spawning points (sp)
